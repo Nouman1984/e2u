@@ -1,1 +1,84 @@
 * text=auto !eol
+e2u/build.xml -text svneol=unset#text/plain
+e2u/installer/docs/Getting[!!-~]started.txt -text svneol=unset#text/plain
+e2u/installer/docs/Known[!!-~]issues.txt -text svneol=unset#text/plain
+e2u/installer/docs/Release[!!-~]notes.txt -text svneol=unset#text/plain
+e2u/installer/emboss.bat -text
+e2u/installer/examples/6-dot-chart.pef -text
+e2u/installer/examples/8-dot-chart.pef -text
+e2u/installer/examples/butterfly.pef -text
+e2u/installer/favicon.ico -text
+e2u/installer/installer.nsi -text
+e2u/installer/odt2braille6.ttf -text
+e2u/lib/ajui-1.0b.jar -text
+e2u/lib/brailleUtils-catalog-1.2b.jar -text
+e2u/lib/brailleUtils-core-1.2b.jar -text
+e2u/lib/isorelax.jar -text
+e2u/lib/jing.jar -text
+e2u/lib/saxon8.jar -text
+e2u/lib/xercesImpl.jar -text
+e2u/lib/xml-apis.jar -text
+e2u/nsisant-1.2.jar -text
+e2u/src/com/googlecode/e2u/AFileChooser.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/AListener.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/AboutBookView.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/AboutView.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/AbstractSettingsView.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/AddPaperComponent.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/AddRollPaperComponent.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/AddSheetPaperComponent.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/AddTractorPaperComponent.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/BasePage.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/BookReader.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/BookScanner.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/BookViewController.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/ClosePage.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/Configuration.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/FindView.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/InputSelectComponent.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/L10n.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/LengthSelectComponent.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/MainPage.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/MenuItem.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/MenuSystem.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/NewThreadExecutor.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/PEFBookFile.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/PEFLibrary.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/PaperView.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/PreviewController.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/PreviewRenderer.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/PreviewSettingsView.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/PrinterLookup.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/SelectComponent.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/Selectable.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/Settings.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/SettingsView.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/Start.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/ValidationView.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/l10n/L10nKeys.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/l10n/Messages.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/l10n/messages.properties -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/l10n/messages_sv.properties -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/resource-files/book.pef -text
+e2u/src/com/googlecode/e2u/resource-files/book.xml -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/resource-files/close.html -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/resource-files/favicon.ico -text
+e2u/src/com/googlecode/e2u/resource-files/fonts/odt2braille6.ttf -text
+e2u/src/com/googlecode/e2u/resource-files/images/folder.gif -text
+e2u/src/com/googlecode/e2u/resource-files/images/green.gif -text
+e2u/src/com/googlecode/e2u/resource-files/images/hline.jpg -text
+e2u/src/com/googlecode/e2u/resource-files/images/home.png -text
+e2u/src/com/googlecode/e2u/resource-files/images/lgrey5.jpg -text
+e2u/src/com/googlecode/e2u/resource-files/images/line.jpg -text
+e2u/src/com/googlecode/e2u/resource-files/images/red.gif -text
+e2u/src/com/googlecode/e2u/resource-files/index.html -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/resource-files/pef2xhtml.xsl -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/resource-files/ping.xml -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/resource-files/preview-style.css -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/resource-files/shortcuts.js -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/resource-files/style.css -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/resource-files/utils.js -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/resource-files/view-example.xml -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/resource-files/view.xml -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/resource-files/view.xsl -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/resource-files/view2.xml -text svneol=unset#text/plain

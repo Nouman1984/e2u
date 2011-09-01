@@ -1,4 +1,6 @@
 * text=auto !eol
+e2u/.classpath -text svneol=unset#text/plain
+e2u/.project -text svneol=unset#text/plain
 e2u/build.xml -text svneol=unset#text/plain
 e2u/installer/docs/Getting[!!-~]started.txt -text svneol=unset#text/plain
 e2u/installer/docs/Known[!!-~]issues.txt -text svneol=unset#text/plain

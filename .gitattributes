@@ -32,6 +32,7 @@ e2u/src/com/googlecode/e2u/BookReader.java -text svneol=unset#text/plain
 e2u/src/com/googlecode/e2u/BookScanner.java -text svneol=unset#text/plain
 e2u/src/com/googlecode/e2u/BookViewController.java -text svneol=unset#text/plain
 e2u/src/com/googlecode/e2u/ClosePage.java -text svneol=unset#text/plain
+e2u/src/com/googlecode/e2u/ComponentRegistry.java -text svneol=unset#text/plain
 e2u/src/com/googlecode/e2u/Configuration.java -text svneol=unset#text/plain
 e2u/src/com/googlecode/e2u/FindView.java -text svneol=unset#text/plain
 e2u/src/com/googlecode/e2u/InputSelectComponent.java -text svneol=unset#text/plain

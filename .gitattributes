@@ -5,12 +5,10 @@ e2u/build.xml -text svneol=unset#text/plain
 e2u/installer/docs/Getting[!!-~]started.txt -text svneol=unset#text/plain
 e2u/installer/docs/Known[!!-~]issues.txt -text svneol=unset#text/plain
 e2u/installer/docs/Release[!!-~]notes.txt -text svneol=unset#text/plain
-e2u/installer/emboss.bat -text
 e2u/installer/examples/6-dot-chart.pef -text
 e2u/installer/examples/8-dot-chart.pef -text
 e2u/installer/examples/butterfly.pef -text
 e2u/installer/favicon.ico -text
-e2u/installer/installer.nsi -text
 e2u/installer/odt2braille6.ttf -text
 e2u/lib/ajui-1.0b.jar -text
 e2u/lib/brailleUtils-catalog-1.2b.jar -text
@@ -20,7 +18,6 @@ e2u/lib/jing.jar -text
 e2u/lib/saxon8.jar -text
 e2u/lib/xercesImpl.jar -text
 e2u/lib/xml-apis.jar -text
-e2u/nsisant-1.2.jar -text
 e2u/src/com/googlecode/e2u/AFileChooser.java -text svneol=unset#text/plain
 e2u/src/com/googlecode/e2u/AListener.java -text svneol=unset#text/plain
 e2u/src/com/googlecode/e2u/AboutBookView.java -text svneol=unset#text/plain

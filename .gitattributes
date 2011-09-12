@@ -83,3 +83,10 @@ e2u/src/com/googlecode/e2u/resource-files/utils.js -text svneol=unset#text/plain
 e2u/src/com/googlecode/e2u/resource-files/view.html -text svneol=unset#text/plain
 e2u/src/com/googlecode/e2u/resource-files/view.xml -text svneol=unset#text/plain
 e2u/src/com/googlecode/e2u/resource-files/view.xsl -text svneol=unset#text/plain
+installers/.project -text svneol=unset#text/plain
+installers/ant-build/resources/Easy[!!-~]Embossing[!!-~]Utility.zip -text
+installers/ant-build/resources/favicon.ico -text
+installers/ant-build/resources/installer.nsi -text
+installers/ant-build/resources/nsisant-1.2.jar -text
+installers/ant-build/resources/odt2braille6.ttf -text
+installers/build.xml -text svneol=unset#text/plain

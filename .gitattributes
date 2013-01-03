@@ -12,7 +12,9 @@ e2u/installer/favicon.ico -text
 e2u/installer/odt2braille6.ttf -text
 e2u/lib/ajui-1.0b.jar -text
 e2u/lib/brailleUtils-catalog-1.2b.jar -text
+e2u/lib/brailleUtils-catalog.jar -text
 e2u/lib/brailleUtils-core-1.2b.jar -text
+e2u/lib/brailleUtils-core.jar -text
 e2u/lib/isorelax.jar -text
 e2u/lib/jing.jar -text
 e2u/lib/saxon8.jar -text

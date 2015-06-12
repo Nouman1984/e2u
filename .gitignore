@@ -1,3 +1,4 @@
 e2u/ant-build/output
 installers/ant-build/output
 .gradle/
+.settings/

@@ -1,9 +1,0 @@
-Getting started with Easy Embossing Utility
-
-== On Windows ==
-The software starts automatically when clicking on a PEF-file. Before you can emboss a file for the first time, the embosser has to be configured. Use one of the embosser test files supplied with the software and follow the setup instructions.
-
-To uninstall, locate "Uninstall" in the Windows start menu. Note that this will not uninstall plugins or fonts.
-
-== Linux/Mac ==
-Run the software by double clicking the e2u.jar file. Open a file through the "Open" tab.
